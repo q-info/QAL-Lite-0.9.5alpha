@@ -13,5 +13,3 @@ As to teaching math, QAL aims to teach the concepts of linear algebra and group 
 For what&lsquo;s new in this version of QAL Lite, check the `What&lsquo;s New` page of `QAL Help`.  QAL also has a fledgling `QAL User Guide` that you may like to check in `QAL Help`.
 
 QAL Lite is currently hosted on GitHub, and is also hosted and accessible from [here](http://eng.staff.alexu.edu.eg/staff/moez/QAL/Lite).
-
-(Feeling adventurous? Want to save your quantum algorithms to local QAL files and to open QAL files developed by others? Want to use &lsquo;controlled gates&rsquo; and &lsquo;swap gates&rsquo; directly in your quantum algorithms? ... You may like to check [QAL Lite 0.9.5alpha](https://q-info.github.io/QAL-Lite-0.9.5alpha), the latest development version of QAL Lite, available [here](https://q-info.github.io/QAL-Lite-0.9.5alpha).)
